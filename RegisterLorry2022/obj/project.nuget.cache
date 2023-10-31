@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KwAkqHaKTp3c1xAI2/LXnJkNl5T1zwc5wTdz/KthC0NpiI7U2G8q5Ka93UqLX9e9fLYcOFWlb6Q22DldUyEOUg==",
+  "dgSpecHash": "Cn3yqQHRtM+HNlEbsRw6rt9ino+PIvp4m74SK3RedjaBgFiHlTQO9zcmkxOsqM8lEDsxAvlvY47KXbz8vkyocQ==",
   "success": true,
-  "projectFilePath": "D:\\Users\\lorryyi\\Documents\\Visual Studio 2022\\Project\\RegisterLorry2022\\RegisterLorry2022\\RegisterLorry2022.csproj",
+  "projectFilePath": "D:\\Users\\lorryyi\\Documents\\Visual Studio 2022\\Project\\LoginANDRegisterLorry2022\\RegisterLorry2022\\RegisterLorry2022.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lorryyi\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\lorryyi\\.nuget\\packages\\k4os.compression.lz4\\1.3.5\\k4os.compression.lz4.1.3.5.nupkg.sha512",

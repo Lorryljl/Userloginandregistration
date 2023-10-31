@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\lorryyi\\Documents\\Visual Studio 2022\\Project\\RegisterLorry2022\\RegisterLorry2022\\RegisterLorry2022.csproj": {}
+    "D:\\Users\\lorryyi\\Documents\\Visual Studio 2022\\Project\\LoginANDRegisterLorry2022\\RegisterLorry2022\\RegisterLorry2022.csproj": {}
   },
   "projects": {
-    "D:\\Users\\lorryyi\\Documents\\Visual Studio 2022\\Project\\RegisterLorry2022\\RegisterLorry2022\\RegisterLorry2022.csproj": {
+    "D:\\Users\\lorryyi\\Documents\\Visual Studio 2022\\Project\\LoginANDRegisterLorry2022\\RegisterLorry2022\\RegisterLorry2022.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\lorryyi\\Documents\\Visual Studio 2022\\Project\\RegisterLorry2022\\RegisterLorry2022\\RegisterLorry2022.csproj",
+        "projectUniqueName": "D:\\Users\\lorryyi\\Documents\\Visual Studio 2022\\Project\\LoginANDRegisterLorry2022\\RegisterLorry2022\\RegisterLorry2022.csproj",
         "projectName": "RegisterLorry2022",
-        "projectPath": "D:\\Users\\lorryyi\\Documents\\Visual Studio 2022\\Project\\RegisterLorry2022\\RegisterLorry2022\\RegisterLorry2022.csproj",
+        "projectPath": "D:\\Users\\lorryyi\\Documents\\Visual Studio 2022\\Project\\LoginANDRegisterLorry2022\\RegisterLorry2022\\RegisterLorry2022.csproj",
         "packagesPath": "C:\\Users\\lorryyi\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\lorryyi\\Documents\\Visual Studio 2022\\Project\\RegisterLorry2022\\RegisterLorry2022\\obj\\",
+        "outputPath": "D:\\Users\\lorryyi\\Documents\\Visual Studio 2022\\Project\\LoginANDRegisterLorry2022\\RegisterLorry2022\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lorryyi\\AppData\\Roaming\\NuGet\\NuGet.Config",
